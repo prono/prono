@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prono&label=Profile%20views&color=0e75b6&style=flat" alt="prono" /> </p>
 
-- 🔭 I’m currently working on [watermilk](https://github.com/prono/watermilk)
+- 🔭 I’m currently searching for a Job.
 
 - 🌱 I’m currently learning **PHP ,HTML , CSS , JavaScript**
 
 - 👯 I’m looking to collaborate on [blood_donation_app](https://pranabmandalweb.000webhostapp.com/)
 
-- 🤝 I’m looking for help with [weatherapp](https://prono.github.io/weatherapp/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/prono](https://github.com/prono)
 
-- 💬 Ask me about **PHP WEb DEVELOPER**
+- 💬 Ask me about **PHP Web DEVELOPER**
 
 - 📫 How to reach me **pranabmanda4998@gmail.com**
 
